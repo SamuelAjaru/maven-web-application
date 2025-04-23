@@ -1,9 +1,9 @@
-//## scripted jenkisfile 
+//## scripted jenkinsfile 
 //## repo = https://github.com/LandmakTechnology/maven-web-application
 // single line comment in groovy 
 // multi- line comment in groovy 
 /*  
-## scripted jenkisfile 
+## scripted jenkinsfile 
 ## repo = https://github.com/LandmakTechnology/maven-web-application
 single line comment in groovy = // 
 multi- line comment in groovy = /*  */
